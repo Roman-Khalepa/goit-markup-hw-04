@@ -442,10 +442,9 @@ ol {
   background-color: #2e2f42;
 
 }
-
-.container .container-footer {
-  display: flex;
-  align-items: baseline
+    display: flex;
+    align-items: baseline
+.container-footer-left {
   margin-right: 120px
 }
 
